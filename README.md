@@ -724,7 +724,9 @@ OS - OpenSource
 - [prov-o](https://www.w3.org/TR/prov-o/) - Represent provenance information.
 - [dcat](https://www.w3.org/TR/vocab-dcat/) - DCAT is an RDF vocabulary designed to facilitate interoperability between data catalogs published on the Web.
 - [prof](https://w3c.github.io/dxwg/profilesont/) The Profiles Ontology is an RDF vocabulary to describe profiles of (one or more) standards for information resources.
-
+- [odrl](https://www.w3.org/TR/odrl-model/) The ODRL Ontology policy expression language provides a flexible and interoperable information model, vocabulary, and encoding mechanisms for representing statements about the usage of content and services
+- [vcard](https://www.w3.org/TR/vcard-rdf/) The vCard Ontology - for describing People and Organizations
+  
 ### European Commission
  - [Core Vocabularies](https://joinup.ec.europa.eu/collection/semantic-interoperability-community-semic/core-vocabularies) - Vocabularies developed for/by public administrations.
 
